@@ -1,0 +1,25 @@
+city,mode_code,mode_label,rate_per_100k_per_year,deaths_2020_2024
+Philadelphia,cyclist,Cyclist,0.37,29
+Philadelphia,motorcyclist,Motorcyclist,1.56,123
+Philadelphia,mv_occupant,Vehicle occupant,3.63,287
+Philadelphia,other_nonmotorist,Other non-motorist,0.19,15
+Philadelphia,pedestrian,Pedestrian,3.27,258
+New York,cyclist,Cyclist,0.21,88
+New York,motorcyclist,Motorcyclist,0.62,261
+New York,mv_occupant,Vehicle occupant,0.67,285
+New York,other_nonmotorist,Other non-motorist,0.05,23
+New York,pedestrian,Pedestrian,1.22,516
+Chicago,cyclist,Cyclist,0.3,40
+Chicago,motorcyclist,Motorcyclist,0.63,85
+Chicago,mv_occupant,Vehicle occupant,3.88,526
+Chicago,other_nonmotorist,Other non-motorist,0.07,9
+Chicago,pedestrian,Pedestrian,2.07,281
+Washington,cyclist,Cyclist,0.32,11
+Washington,motorcyclist,Motorcyclist,0.88,30
+Washington,mv_occupant,Vehicle occupant,2.26,77
+Washington,pedestrian,Pedestrian,2.11,72
+Boston,cyclist,Cyclist,0.15,5
+Boston,motorcyclist,Motorcyclist,0.66,22
+Boston,mv_occupant,Vehicle occupant,1.35,45
+Boston,other_nonmotorist,Other non-motorist,0.15,5
+Boston,pedestrian,Pedestrian,1.29,43

@@ -1,0 +1,51 @@
+city,factor_code,factor_label,period,share,ci95_lo,ci95_hi,deaths_in_period,diff_2024_minus_1519,diff_ci95_lo,diff_ci95_hi,diff_significant
+Philadelphia,speeding,Speeding-involved,2015-19,0.2907,0.2496,0.3356,485,0.0843,0.027,0.1416,1
+Philadelphia,speeding,Speeding-involved,2020-24,0.375,0.3381,0.4134,712,0.0843,0.027,0.1416,1
+New York,speeding,Speeding-involved,2015-19,0.2352,0.2099,0.2626,1067,0.0705,0.032,0.109,1
+New York,speeding,Speeding-involved,2020-24,0.3057,0.2785,0.3344,1171,0.0705,0.032,0.109,1
+Chicago,speeding,Speeding-involved,2015-19,0.4417,0.4011,0.4831,652,-0.064,-0.1169,-0.0111,1
+Chicago,speeding,Speeding-involved,2020-24,0.3777,0.345,0.4114,940,-0.064,-0.1169,-0.0111,1
+Washington,speeding,Speeding-involved,2015-19,0.4706,0.3847,0.5582,136,-0.0777,-0.1924,0.037,0
+Washington,speeding,Speeding-involved,2020-24,0.3929,0.3226,0.4679,196,-0.0777,-0.1924,0.037,0
+Boston,speeding,Speeding-involved,2015-19,0.2778,0.1991,0.3731,108,0.0055,-0.1176,0.1286,0
+Boston,speeding,Speeding-involved,2020-24,0.2833,0.2063,0.3756,120,0.0055,-0.1176,0.1286,0
+Philadelphia,hitrun,Hit-and-run,2015-19,0.1608,0.129,0.1987,485,0.0681,0.0202,0.116,1
+Philadelphia,hitrun,Hit-and-run,2020-24,0.2289,0.1979,0.2633,712,0.0681,0.0202,0.116,1
+New York,hitrun,Hit-and-run,2015-19,0.1453,0.1247,0.1686,1067,0.052,0.0194,0.0846,1
+New York,hitrun,Hit-and-run,2020-24,0.1973,0.1742,0.2225,1171,0.052,0.0194,0.0846,1
+Chicago,hitrun,Hit-and-run,2015-19,0.1779,0.1484,0.2118,652,0.0678,0.0245,0.1111,1
+Chicago,hitrun,Hit-and-run,2020-24,0.2457,0.2174,0.2764,940,0.0678,0.0245,0.1111,1
+Washington,hitrun,Hit-and-run,2015-19,0.1691,0.1132,0.245,136,0.0758,-0.0167,0.1683,0
+Washington,hitrun,Hit-and-run,2020-24,0.2449,0.1864,0.3147,196,0.0758,-0.0167,0.1683,0
+Boston,hitrun,Hit-and-run,2015-19,0.1389,0.0842,0.2206,108,-0.0389,-0.1279,0.0501,0
+Boston,hitrun,Hit-and-run,2020-24,0.1,0.0561,0.1719,120,-0.0389,-0.1279,0.0501,0
+Philadelphia,posbac,Alcohol involved,2015-19,0.1299,0.1012,0.1652,485,-0.0063,-0.0473,0.0347,0
+Philadelphia,posbac,Alcohol involved,2020-24,0.1236,0.1002,0.1516,712,-0.0063,-0.0473,0.0347,0
+New York,posbac,Alcohol involved,2015-19,0.0834,0.0678,0.1023,1067,0.031,0.0051,0.0569,1
+New York,posbac,Alcohol involved,2020-24,0.1144,0.0965,0.1352,1171,0.031,0.0051,0.0569,1
+Chicago,posbac,Alcohol involved,2015-19,0.2147,0.1827,0.2506,652,-0.1498,-0.1878,-0.1118,1
+Chicago,posbac,Alcohol involved,2020-24,0.0649,0.0499,0.0839,940,-0.1498,-0.1878,-0.1118,1
+Washington,posbac,Alcohol involved,2015-19,0.2647,0.1948,0.3488,136,-0.0402,-0.1402,0.0598,0
+Washington,posbac,Alcohol involved,2020-24,0.2245,0.1683,0.2929,196,-0.0402,-0.1402,0.0598,0
+Boston,posbac,Alcohol involved,2015-19,0.213,0.1438,0.3036,108,0.0453,-0.0707,0.1613,0
+Boston,posbac,Alcohol involved,2020-24,0.2583,0.1845,0.3491,120,0.0453,-0.0707,0.1613,0
+Philadelphia,dark,Dark conditions,2015-19,0.5753,0.5278,0.6214,485,0.068,0.008,0.128,1
+Philadelphia,dark,Dark conditions,2020-24,0.6433,0.6052,0.6796,712,0.068,0.008,0.128,1
+New York,dark,Dark conditions,2015-19,0.5464,0.5153,0.5771,1067,0.0215,-0.0217,0.0647,0
+New York,dark,Dark conditions,2020-24,0.5679,0.5376,0.5977,1171,0.0215,-0.0217,0.0647,0
+Chicago,dark,Dark conditions,2015-19,0.5429,0.5015,0.5838,652,0.0911,0.0382,0.144,1
+Chicago,dark,Dark conditions,2020-24,0.634,0.6004,0.6664,940,0.0911,0.0382,0.144,1
+Washington,dark,Dark conditions,2015-19,0.6765,0.5896,0.7526,136,-0.0234,-0.1327,0.0859,0
+Washington,dark,Dark conditions,2020-24,0.6531,0.5788,0.7205,196,-0.0234,-0.1327,0.0859,0
+Boston,dark,Dark conditions,2015-19,0.5556,0.4573,0.6496,108,0.0027,-0.1335,0.1389,0
+Boston,dark,Dark conditions,2020-24,0.5583,0.4634,0.6492,120,0.0027,-0.1335,0.1389,0
+Philadelphia,arterial,On a principal arterial,2015-19,0.5443,0.4968,0.5911,485,0.0624,0.0017,0.1231,1
+Philadelphia,arterial,On a principal arterial,2020-24,0.6067,0.5681,0.6441,712,0.0624,0.0017,0.1231,1
+New York,arterial,On a principal arterial,2015-19,0.4517,0.421,0.4828,1067,0.1205,0.0774,0.1636,1
+New York,arterial,On a principal arterial,2020-24,0.5722,0.5419,0.6019,1171,0.1205,0.0774,0.1636,1
+Chicago,arterial,On a principal arterial,2015-19,0.3804,0.3411,0.4213,652,0.0505,-0.0022,0.1032,0
+Chicago,arterial,On a principal arterial,2020-24,0.4309,0.3973,0.4651,940,0.0505,-0.0022,0.1032,0
+Washington,arterial,On a principal arterial,2015-19,0.1544,0.1012,0.2285,136,0.2283,0.1313,0.3253,1
+Washington,arterial,On a principal arterial,2020-24,0.3827,0.3129,0.4575,196,0.2283,0.1313,0.3253,1
+Boston,arterial,On a principal arterial,2015-19,0.6481,0.5501,0.7351,108,-0.0231,-0.1549,0.1087,0
+Boston,arterial,On a principal arterial,2020-24,0.625,0.5299,0.7113,120,-0.0231,-0.1549,0.1087,0

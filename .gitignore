@@ -1,19 +1,27 @@
-# Manuscript drafts and working notes stay local
+# drafts and working material — keep out of a public repo
 _drafts/
 *.docx
 *.doc
 ~$*
+*.pages
 
-# Data files
+# source and intermediate data, not for redistribution here
 *.dta
 *.parquet
-*.csv.gz
-*.sas7bdat
-*.RData
+*.sav
 *.rds
+*.RData
+*.zip
+raw/
+scratch/
 
-# OS / editor
+# OS and editor
 .DS_Store
 Thumbs.db
+.Rproj.user/
+.Rhistory
+.ipynb_checkpoints/
+__pycache__/
+.venv/
 .vscode/
 .idea/

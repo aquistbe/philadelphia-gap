@@ -1,0 +1,6 @@
+city,deaths_2020_2024,share_speeding,share_hitrun,share_posbac,share_dark,share_arterial
+Boston,120,0.283,0.1,0.258,0.558,0.625
+Chicago,941,0.377,0.245,0.065,0.633,0.431
+New York,1173,0.306,0.198,0.114,0.568,0.572
+Philadelphia,712,0.375,0.229,0.124,0.643,0.607
+Washington,190,0.4,0.247,0.226,0.653,0.389

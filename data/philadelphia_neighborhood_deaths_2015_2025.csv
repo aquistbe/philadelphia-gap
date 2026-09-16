@@ -1,0 +1,160 @@
+neighborhood,population,median_household_income_usd,poorest_quartile_flag,deaths_2015_2019,deaths_2020_2024,deaths_2025_provisional
+Oxford Circle,51157,61886,0,23,22,1
+Richmond,19731,68529,0,18,26,5
+Hunting Park,17624,39214,1,16,25,0
+West Park,0,0,0,18,22,3
+Riverfront,2372,136250,0,10,19,1
+Mayfair,34219,58286,0,10,18,3
+Feltonville,11074,53140,0,10,17,3
+Olney,38024,58290,0,17,9,1
+Industrial,0,0,0,6,19,1
+Juniata Park,22293,42866,1,6,18,2
+Holmesburg,18354,53173,0,11,12,0
+Wissinoming,19012,49857,0,6,16,1
+Northwood,17995,47601,0,12,9,2
+Upper Kensington,23610,27979,1,5,16,3
+West Kensington,9997,66282,0,11,10,0
+Logan,17943,48614,0,4,17,1
+Stadium District,3902,72167,0,11,10,1
+Somerton,33179,63467,0,9,11,1
+Franklinville,5604,30768,1,6,14,1
+Tioga,11474,32996,1,5,13,2
+Hartranft,20129,27251,1,4,14,1
+Cobbs Creek,39567,43430,1,9,9,4
+Bustleton,34914,79468,0,11,5,1
+Allegheny West,11731,38077,1,4,12,1
+Eastwick,2697,49165,0,7,9,4
+Rhawnhurst,27737,56753,0,6,9,1
+Harrowgate,2931,44293,0,3,12,3
+East Park,0,0,0,5,9,1
+Bridesburg,6492,85967,0,5,8,0
+Tacony,20487,63381,0,7,6,2
+Haddington,16358,32597,1,5,8,1
+University City,17433,31643,1,4,8,3
+Mantua,7215,31156,1,4,8,0
+Strawberry Mansion,17929,31937,1,5,7,1
+Wissahickon Park,292,111295,0,8,3,0
+Frankford,19637,36712,1,4,7,0
+Packer Park,5962,120560,0,2,9,0
+Northeast Phila Airport,0,0,0,6,4,3
+Torresdale,14156,66057,0,3,7,0
+Lawndale,22321,48627,0,6,4,1
+North Central,23476,46127,0,1,9,0
+Airport,0,0,0,2,8,0
+Overbrook,36663,67576,0,2,8,2
+West Oak Lane,37618,70538,0,5,4,1
+Parkwood Manor,10522,100739,0,2,7,0
+Lexington Park,4296,59737,0,2,7,0
+Washington Square West,13550,88920,0,4,5,1
+East Mount Airy,13608,88803,0,2,6,0
+Grays Ferry,12612,61943,0,5,3,2
+Pennypack,14519,82368,0,6,2,3
+Fern Rock,4484,55149,0,3,5,1
+East Oak Lane,12454,63623,0,4,4,0
+Logan Square,17696,99869,0,3,5,0
+Paschall,11342,32770,1,1,7,0
+Wynnefield,11893,57261,0,3,5,2
+East Kensington,6769,95742,0,3,5,0
+East Falls,11223,105081,0,5,2,1
+Northern Liberties,9739,137157,0,2,5,0
+Old City,5135,104900,0,4,3,0
+Center City East,3395,69677,0,5,2,0
+Crescentville,8950,63135,0,4,2,0
+Upper Roxborough,14159,82555,0,3,3,0
+East Germantown,14133,52044,0,1,5,0
+McGuire,4435,22262,1,3,3,1
+Fishtown - Lower Kensington,15438,115836,0,1,5,0
+Kingsessing,14449,45895,0,5,1,0
+Chestnut Hill,10672,129508,0,4,1,0
+Academy Gardens,3631,93846,0,4,1,0
+Stanton,5623,33626,1,0,5,1
+West Parkside,3668,48179,0,2,3,0
+Mill Creek,7819,34052,1,0,5,0
+Girard Estates,8729,89533,0,3,2,1
+Byberry,993,82000,0,1,3,1
+Modena,10556,93320,0,2,2,0
+Morrell Park,9564,80110,0,2,2,0
+Fox Chase,22085,71463,0,1,3,0
+Ogontz,12902,33322,1,1,3,0
+Glenwood,2788,28372,1,0,4,0
+Melrose Park Gardens,3985,64023,0,2,2,0
+Port Richmond,0,0,0,1,3,0
+Rittenhouse,19546,99773,0,3,1,0
+Passyunk Square,7197,113080,0,2,2,0
+Clearview,6421,73586,0,0,4,0
+Normandy Village,3916,84932,0,3,1,0
+Pennypack Park,0,0,0,1,2,0
+Franklin Mills,3952,112514,0,1,2,0
+Roxborough,13431,101670,0,2,1,0
+West Central Germantown,8001,68732,0,1,2,0
+Germantown - Penn Knox,0,0,0,1,2,1
+Nicetown,4083,48804,0,1,2,0
+Fairhill,0,0,0,2,1,1
+Francisville,4465,152054,0,1,2,0
+Point Breeze,19631,92263,0,2,1,0
+Bartram Village,2152,33328,1,2,1,1
+Walnut Hill,6382,58502,0,1,2,1
+Spruce Hill,7673,57436,0,1,2,0
+Southwest Schuylkill,7365,33886,1,2,1,0
+East Parkside,3290,35323,1,2,1,3
+Belmont,3529,49309,0,2,1,2
+Wynnefield Heights,8209,44879,0,2,1,0
+Elmwood,14323,44030,0,1,2,0
+Millbrook,4722,77656,0,2,0,0
+Aston-Woodbridge,5869,70788,0,1,1,1
+Winchester Park,0,0,0,1,1,0
+Summerdale,0,0,0,1,1,0
+Germantown - Morton,9766,33554,1,1,1,0
+Germantown - Westside,3619,61543,0,0,2,0
+Southwest Germantown,12669,60054,0,1,1,0
+Wister,0,0,0,0,2,0
+Yorktown,6163,38490,1,0,2,1
+Ludlow,2330,30643,1,1,1,0
+Old Kensington,5501,119576,0,1,1,0
+Society Hill,6485,113145,0,2,0,0
+Chinatown,3103,102670,0,1,1,1
+Fairmount,6315,119251,0,0,2,0
+Spring Garden,9545,112087,0,1,1,1
+Haverford North,1512,18018,1,0,2,0
+Carroll Park,12534,36490,1,1,1,1
+Callowhill,3155,107313,0,0,2,0
+West Poplar,3765,60750,0,1,1,1
+West Passyunk,9190,56680,0,2,0,1
+Cedarbrook,12101,58208,0,0,1,0
+West Mount Airy,12903,101559,0,0,1,1
+Pennypack Woods,4364,65682,0,1,0,0
+Burholme,4432,62344,0,0,1,0
+Wissahickon,2973,99700,0,1,0,0
+Hawthorne,6432,121385,0,0,1,0
+Lower Moyamensing,23536,74890,0,1,0,1
+Whitman,10042,86814,0,0,1,0
+Penrose,6426,44692,0,0,1,0
+Powelton,7560,38538,1,0,1,0
+West Powelton,3255,64250,0,0,1,0
+Dunlap,4210,42232,1,0,1,0
+East Poplar,1657,32004,1,0,1,0
+Newbold,10273,63668,0,1,0,1
+East Passyunk,5778,114500,0,1,0,0
+Blue Bell Hill,0,0,0,0,1,1
+West Torresdale,0,0,0,0,0,0
+Mechanicsville,0,0,0,0,0,0
+Crestmont Farms,0,0,0,0,0,0
+Andorra,2484,114107,0,0,0,0
+Dearnley Park,2493,114537,0,0,0,0
+Roxborough Park,0,0,0,0,0,0
+Germany Hill,3897,124506,0,0,0,0
+Wissahickon Hills,0,0,0,0,0,1
+Manayunk,3570,99236,0,0,0,1
+Brewerytown,8152,79387,0,0,0,0
+Sharswood,2850,44551,0,0,0,0
+Fitler Square,4063,124877,0,0,0,0
+Graduate Hospital,14483,123634,0,0,0,0
+Bella Vista,4710,74663,0,0,0,0
+Queen Village,9790,123026,0,0,0,1
+Dickinson Narrows,7857,81274,0,0,0,0
+Greenwich,0,0,0,0,0,0
+Cedar Park,8966,71535,0,0,0,0
+Garden Court,0,0,0,0,0,0
+Woodland Terrace,0,0,0,0,0,0
+Navy Yard,0,0,0,0,0,0
+Pennsport,4652,106196,0,0,0,0
