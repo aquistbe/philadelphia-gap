@@ -1,0 +1,19 @@
+# Manuscript drafts and working notes stay local
+_drafts/
+*.docx
+*.doc
+~$*
+
+# Data files
+*.dta
+*.parquet
+*.csv.gz
+*.sas7bdat
+*.RData
+*.rds
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

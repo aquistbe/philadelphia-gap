@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this data appendix, please cite it as below."
+type: dataset
+title: "The Philadelphia Gap: data appendix"
+authors:
+  - family-names: Quistberg
+    given-names: D. Alex
+    affiliation: "Urban Health Collaborative, Dornsife School of Public Health, Drexel University"
+    email: daq26@drexel.edu
+year: 2026
+date-released: 2026-09-16
+url: "https://aquistbe.github.io/philadelphia-gap/"
+repository-code: "https://github.com/aquistbe/philadelphia-gap"
+license: MIT
+keywords:
+  - road traffic injury
+  - pedestrian safety
+  - Philadelphia
+  - FARS
+  - Vision Zero
+abstract: "Data appendix to a September 2026 article in The Conversation on Philadelphia traffic fatalities. Compares Philadelphia with New York, Chicago, Washington and Boston and with the 40 largest US cities using FARS 2015-2024 microdata (NHTSA), PennDOT crash reporting system data 2015-2024, and Census population estimates for denominators."
