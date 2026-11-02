@@ -26,5 +26,5 @@ doi: 10.5281/zenodo.23890095
 license: CC-BY-4.0
 url: "https://aquistbe.github.io/philadelphia-gap/"
 repository-code: "https://github.com/aquistbe/philadelphia-gap"
-date-released: 2026-09-16
-version: "1.0.0"
+date-released: 2026-11-02
+version: "1.0.1"
