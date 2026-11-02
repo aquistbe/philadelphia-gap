@@ -92,6 +92,8 @@ not subject to this license.
 
 ## Citation
 
+DOI: [10.5281/zenodo.23890095](https://doi.org/10.5281/zenodo.23890095) (all versions; archived on Zenodo)
+
 See `CITATION.cff`.
 
 ## Contact
