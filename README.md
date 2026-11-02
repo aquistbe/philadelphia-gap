@@ -5,6 +5,8 @@ traffic fatality rate relative to four dense peer cities.
 
 **Live page:** https://aquistbe.github.io/philadelphia-gap/
 
+**Article:** https://theconversation.com/what-philly-can-and-cant-do-to-reduce-the-number-of-people-killed-in-car-crashes-289763
+
 Prepared by D. Alex Quistberg, PhD, MPH — Associate Research Professor and
 Department Chair, Urban Health Collaborative, Drexel University Dornsife School
 of Public Health.
